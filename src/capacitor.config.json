@@ -1,0 +1,9 @@
+{
+  "appId": "com.denzie.myrealg",
+  "appName": "MyRealG",
+  "webDir": "build",
+  "server": {
+    "url": "https://denziecodes.github.io/myrealg",
+    "cleartext": true
+  }
+}
